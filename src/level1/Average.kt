@@ -1,4 +1,4 @@
-package Level1
+package level1
 
 class Average {
     fun solution(arr: IntArray): Double {

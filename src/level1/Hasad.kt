@@ -1,4 +1,4 @@
-package Level1
+package level1
 
 class Hasad {
     fun solution(x: Int): Boolean {

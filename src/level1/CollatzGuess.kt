@@ -1,4 +1,4 @@
-package Level1
+package level1
 
 class CollatzGuess {
     fun solution(num: Int): Int {

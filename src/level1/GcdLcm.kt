@@ -1,4 +1,4 @@
-package Level1
+package level1
 
 class GcdLcm {
     fun solution(n: Int, m: Int): IntArray {
