@@ -1,7 +1,5 @@
 package boj.최단거리
 
-import jdk.nashorn.internal.runtime.ScriptingFunctions.readLine
-import sun.security.krb5.internal.KDCOptions.with
 
 private const val INF = 10
 fun main() = with(System.`in`.bufferedReader()) {

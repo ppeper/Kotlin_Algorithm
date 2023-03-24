@@ -1,7 +1,5 @@
 package boj.최단거리
 
-import sun.security.krb5.internal.KDCOptions.with
-
 fun main() = with(System.`in`.bufferedReader()) {
 
     fun floyd(dist: Array<IntArray>, n: Int) {
