@@ -1,4 +1,4 @@
-package programmers.kakao
+package programmers.kakao.KAKAO_BLIND_2019
 
 // 2019 KAKAO BLIND RECRUITMENT - 후보키
 

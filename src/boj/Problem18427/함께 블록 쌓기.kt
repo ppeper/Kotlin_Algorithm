@@ -1,4 +1,4 @@
-package boj.`18427`
+package boj.Problem18427
 
 fun main() = with(System.`in`.bufferedReader()) {
     val (n,m,h) = readLine().split(" ").map { it.toInt() }

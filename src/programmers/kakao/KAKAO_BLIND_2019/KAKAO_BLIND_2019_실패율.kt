@@ -1,4 +1,4 @@
-package programmers.kakao
+package programmers.kakao.KAKAO_BLIND_2019
 
 class KAKAO_BLIND_2019_실패율 {
     fun solution(N: Int, stages: IntArray): IntArray {

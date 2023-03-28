@@ -1,4 +1,4 @@
-package programmers.kakao
+package programmers.kakao.KAKAO_BLIND_2021
 
 class KAKAO_BLIND_2021_합승택시요금 {
     private val INF = 3000000

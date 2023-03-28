@@ -1,6 +1,6 @@
 package boj
 
-const val MOD = 9901
+private const val MOD = 9901
 fun main() {
     val size = readln().toInt()
     // 빈칸, 왼쪽사자, 오른쪽 사자

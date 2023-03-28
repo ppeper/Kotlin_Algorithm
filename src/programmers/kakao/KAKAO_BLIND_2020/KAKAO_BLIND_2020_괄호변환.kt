@@ -1,4 +1,4 @@
-package programmers.kakao
+package programmers.kakao.KAKAO_BLIND_2020
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package programmers.kakao
+package programmers.kakao.KAKAO_BLIND_2021
 
 class KAKAO_BLIND_2021_메뉴리뉴얼 {
     private val menuList = ArrayList<String>()

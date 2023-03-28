@@ -1,4 +1,4 @@
-package boj.`1300`
+package boj.Problem1300
 
 import kotlin.math.min
 
